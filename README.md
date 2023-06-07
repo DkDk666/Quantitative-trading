@@ -1,2 +1,3 @@
 # Quantitative-trading
-A quantitative trading base on machine learning
+
+_A quantitative trading base on machine learning_
